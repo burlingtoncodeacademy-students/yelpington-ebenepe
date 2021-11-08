@@ -1,0 +1,10 @@
+{
+  "id": "poppy-cafe",
+  "name": "Poppy Cafe & Market",
+  "address": "88 Oak Street",
+  "phone number": "393-4711",
+  "hours": "11am-2:30pm",
+  "lat": 44.49016655019588, 
+  "long": -73.209807826719,
+  "notes": ["Great sandwiches", "Open until sell out"]
+}
