@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
 import { useLocation } from "react-router";
-import Map from "./components/Map";
+import Map from "./Map";
 
 function Restaurant(props) {
   // initialize variables for useState

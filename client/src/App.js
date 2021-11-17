@@ -1,9 +1,9 @@
 import "./App.css";
 import React from "react";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
-import Nav from "./Nav";
-import Restaurant from "./Restaurant";
-import Home from "./Home";
+import Nav from "./components/Nav";
+import Restaurant from "./components/Restaurant";
+import Home from "./components/Home";
 
 function App() {
   return (
