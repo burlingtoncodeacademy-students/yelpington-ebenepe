@@ -1,0 +1,11 @@
+{
+    "id": "henry-st-deli",
+    "name": "Henry Street Deli Mart",
+    "address": "11 Henry Street",
+    "phone number": "864-1754",
+    "hours": "7am-8pm",
+    "lat": 44.48418549699407, 
+    "long": -73.20515208475838,
+    "notes": ["Bagel breakfast sandwiches are great", "Weekend mornings are slammed"]
+  }
+  

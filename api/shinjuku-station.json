@@ -1,0 +1,11 @@
+{
+    "id": "shinjuku-station",
+    "name": "Shinjuku Station",
+    "address": "260 North Street",
+    "phone number": "540-8198",
+    "hours": "2:00pm-8:00pm",
+    "lat": 44.48506961349075, 
+    "long": -73.21177154243121,
+    "notes": ["Great sushi", "Take out only"]
+  }
+  

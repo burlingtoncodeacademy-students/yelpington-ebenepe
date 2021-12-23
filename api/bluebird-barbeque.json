@@ -1,0 +1,10 @@
+{
+  "id": "bluebird-barbeque",
+  "name": "Bluebird Barbeque",
+  "address": "317 Riverside Ave",
+  "phone number": "448-3070",
+  "hours": "4pm-8pm",
+  "lat": 44.48806221332021,
+  "long": -73.19526344056587,
+  "notes": ["Best for meat eaters", "BBQ is cool"]
+}

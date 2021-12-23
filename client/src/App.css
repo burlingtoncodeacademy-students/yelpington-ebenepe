@@ -1,38 +1,75 @@
-.App {
+/* remove default margin/padding */
+* {
+  padding:0;
+  margin: 0;
+}
+
+/* main body rules */
+#body {
+  margin: 0;
+  padding: 1em;
+  padding-top: 3em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: lightgoldenrodyellow;
+  height: 100vh;
+  font-family: 'Rubik', sans-serif;
+}
+
+/* getting page elements aligned properly */
+.page-style {
+  display: flex;
+  flex-direction: row;
+}
+
+/* styling for side panels */
+#nav-panel, .info-panel {
+  margin: 1em 2.5em 0 2.5em;
+  padding: 0;
+  line-height: 1.5em;
+}
+
+/* fixing width so that page change doesn't change proportions */
+.info-panel {
+  width: 300px;
+}
+
+/* center nav menu links */
+#nav-panel {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* logo rules */
+img {
+  height: 150px;
+  padding: 0 0 1em 0;
+  margin: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* list style */
+ul, li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* h1, 2, link styling */
+h1 {
+  padding: 1rem;
+  margin: 1rem;
 }
 
-.App-link {
-  color: #61dafb;
+h2 {
+  margin: 0 0 1em 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a {
+  text-decoration: none;
+  color: black
+}
+
+a:hover {
+  font-weight: 900;
+  text-decoration: underline;
 }

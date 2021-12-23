@@ -1,0 +1,11 @@
+{
+    "id": "saigon-kitchen",
+    "name": "Saigon Kitchen",
+    "address": "112 North Street",
+    "phone number": "540-0417",
+    "hours": "11:30am-9:00pm",
+    "lat": 44.48489487701935, 
+    "long": -73.21741389827889,
+    "notes": ["Tasty noodles", "Authentic Vietnamese"]
+  }
+  

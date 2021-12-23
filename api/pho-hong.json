@@ -1,0 +1,10 @@
+{
+  "id": "pho-hong",
+  "name": "Pho Hong",
+  "address": "325 N Winooski Ave",
+  "phone number": "865-8031",
+  "hours": "11am-10pm",
+  "lat": 44.48894262636787,
+  "long": -73.20695698292319,
+  "notes": ["BYOB", "delicious soup"]
+}
